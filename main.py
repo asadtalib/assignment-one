@@ -1,3 +1,3 @@
-name = "Asad Talib"
+full_name = "Asad Talib"
 
-print(f"Hello {name}")
+print(f"Hello {full_name}")
